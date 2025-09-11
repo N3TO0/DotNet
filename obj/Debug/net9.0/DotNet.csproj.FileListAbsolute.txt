@@ -13,3 +13,18 @@ C:\Users\Neto Show\Documents\Repositorios\DotNet\obj\Debug\net9.0\refint\DotNet.
 C:\Users\Neto Show\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.pdb
 C:\Users\Neto Show\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.genruntimeconfig.cache
 C:\Users\Neto Show\Documents\Repositorios\DotNet\obj\Debug\net9.0\ref\DotNet.dll
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\bin\Debug\net9.0\DotNet.exe
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\bin\Debug\net9.0\DotNet.deps.json
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\bin\Debug\net9.0\DotNet.runtimeconfig.json
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\bin\Debug\net9.0\DotNet.dll
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\bin\Debug\net9.0\DotNet.pdb
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.AssemblyInfoInputs.cache
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.AssemblyInfo.cs
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.csproj.CoreCompileInputs.cache
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.sourcelink.json
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.dll
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\refint\DotNet.dll
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.pdb
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\DotNet.genruntimeconfig.cache
+C:\Users\iderv\OneDrive\Documents\Repositorios\DotNet\obj\Debug\net9.0\ref\DotNet.dll
