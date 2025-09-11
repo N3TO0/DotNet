@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Neto Show\\.nuget\\packages\\": {}
+    "C:\\Users\\iderv\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Neto Show\\Documents\\Repositorios\\DotNet\\DotNet.csproj",
+      "projectUniqueName": "C:\\Users\\iderv\\OneDrive\\Documents\\Repositorios\\DotNet\\DotNet.csproj",
       "projectName": "DotNet",
-      "projectPath": "C:\\Users\\Neto Show\\Documents\\Repositorios\\DotNet\\DotNet.csproj",
-      "packagesPath": "C:\\Users\\Neto Show\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Neto Show\\Documents\\Repositorios\\DotNet\\obj\\",
+      "projectPath": "C:\\Users\\iderv\\OneDrive\\Documents\\Repositorios\\DotNet\\DotNet.csproj",
+      "packagesPath": "C:\\Users\\iderv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iderv\\OneDrive\\Documents\\Repositorios\\DotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Neto Show\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\iderv\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
